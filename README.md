@@ -8,9 +8,7 @@
 
 ### Skills
 
-### Skills
-
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,py,git,sql,visualstudio,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,py,git,mssql,vscode,github)](https://skillicons.dev)
 
 <div align="left">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
