@@ -1,4 +1,4 @@
-# Hi 👋 My name is Sergio Pavanelli
+# Hi 👋 My name is Sérgio Pavanelli
 
 - 🌍 I'm based in Belo Horizonte, MG, Brazil
 - 🏥 I'm currently developing healthcare software solutions at EBSERH/HC-UFMG using **C#**.
