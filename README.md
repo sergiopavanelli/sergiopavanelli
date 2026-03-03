@@ -3,7 +3,7 @@
 - 🌍 I'm based in Belo Horizonte, MG, Brazil
 - 🏥 I'm currently developing healthcare software solutions at EBSERH using **C#**.
 - 📚 Deepening my knowledge through postgraduate studies in **Software Engineering**, **Information Security**, **Data Science & AI**, and currently **Database Administration**.
-- 📫 You can reach me by my social media, just as LinkedIn and Instagram.
+- 📫 You can reach me by my social media, such as LinkedIn and Instagram.
 - ⚡ Driven by curiosity and problem-solving. Take a look at my repositories to see my code in action.
 - 🔭 Fun fact: Chemist with an MSc in Analytical Chemistry (UFMG). Also a musician, tennis enthusiast, and passionate about science, astrophysics and space!
 
