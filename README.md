@@ -3,7 +3,6 @@
 - 🌎 Based in Belo Horizonte, MG, Brazil
 - 🛠️ Currently developing the **SGP (Sistema de Gestão de Prontuários)** at EBSERH using **C#**.
 - 👨‍💻 IT Analyst | .NET Full Stack Developer specializing in **ASP.NET Core, SQL Server, and EF Core**.
-- 🎓 Master's Degree from **UFMG**.
 - ⚙️ Interested in CI/CD, IT Infrastructure, and Data Science.
 - 🎾 Fun fact: I'm a tennis enthusiast and a Sci-Fi fan.
 
