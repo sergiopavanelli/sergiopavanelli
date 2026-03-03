@@ -14,8 +14,8 @@
 ### GitHub Stats
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sergiopavanelli&show_icons=true&theme=radical&hide_border=true" alt="Sergio's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiopavanelli&layout=compact&theme=radical&hide_border=true" alt="Sergio's Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=sergiopavanelli&show_icons=true&theme=radical&hide_border=true" alt="Sergio's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sergiopavanelli&layout=compact&theme=radical&hide_border=true" alt="Sergio's Top Languages" />
 </div>
 
 ### Socials
