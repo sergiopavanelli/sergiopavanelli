@@ -1,7 +1,7 @@
 # Hi 👋 My name is Sergio Pavanelli
 
 - 🌍 I'm based in Belo Horizonte, MG, Brazil
-- 🏥 I'm currently developing healthcare software solutions at EBSERH using **C#**.
+- 🏥 I'm currently developing healthcare software solutions at EBSERH/HC-UFMG using **C#**.
 - 📚 Deepening my knowledge through postgraduate studies in **Software Engineering**, **Information Security**, **Data Science & AI**, and currently **Database Administration**.
 - 📫 You can reach me via my social media, such as LinkedIn and Instagram.
 - ⚡ Driven by curiosity and problem-solving. Take a look at my repositories to see my code in action.
