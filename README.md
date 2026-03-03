@@ -5,7 +5,7 @@
 - 📚 Deepening my knowledge through postgraduate studies in **Software Engineering**, **Information Security**, **Data Science & AI**, and currently **Database Administration**.
 - 📫 You can reach me via my social media, such as LinkedIn and Instagram.
 - ⚡ Driven by curiosity and problem-solving. Take a look at my repositories to see my code in action.
-- 🔭 Fun facts: Chemist with an MSc in Analytical Chemistry (UFMG). Also a musician, tennis enthusiast, and passionate about science, astrophysics, and space!
+- 🔭 Fun facts: Chemist with a MSc in Analytical Chemistry (UFMG). Also a musician, tennis enthusiast, and passionate about science, astrophysics, and space!
 
 ### Skills
 
