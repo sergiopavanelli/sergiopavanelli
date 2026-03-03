@@ -3,13 +3,20 @@
 - 🌍 I'm based in Belo Horizonte, MG, Brazil
 - 🏥 I'm currently developing healthcare software solutions at EBSERH using **C#**.
 - 📚 Deepening my knowledge through postgraduate studies in **Software Engineering**, **Information Security**, **Data Science & AI**, and currently **Database Administration**.
-- 📫 You can reach me by my social media, such as LinkedIn and Instagram.
+- 📫 You can reach me via my social media, such as LinkedIn and Instagram.
 - ⚡ Driven by curiosity and problem-solving. Take a look at my repositories to see my code in action.
-- 🔭 Fun fact: Chemist with an MSc in Analytical Chemistry (UFMG). Also a musician, tennis enthusiast, and passionate about science, astrophysics and space!
+- 🔭 Fun facts: Chemist with an MSc in Analytical Chemistry (UFMG). Also a musician, tennis enthusiast, and passionate about science, astrophysics, and space!
 
 ### Skills
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,py,git,vscode,visualstudio,github)](https://skillicons.dev)
+
+### GitHub Stats
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=sergiopavanelli&show_icons=true&theme=radical&hide_border=true" alt="Sergio's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiopavanelli&layout=compact&theme=radical&hide_border=true" alt="Sergio's Top Languages" />
+</div>
 
 ### Socials
 
