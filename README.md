@@ -1,9 +1,10 @@
 # Hi 👋 My name is Sergio Pavanelli
 
-- 🌎 Based in Belo Horizonte, MG, Brazil
-- 🏥 Currently developing healthcare software solutions at EBSERH using **C#**.
-- 👨‍💻 IT Analyst | .NET Full Stack Developer specializing in **ASP.NET Core, SQL Server, and EF Core**.
-- ⚙️ Interested in CI/CD, IT Infrastructure, and Data Science.
+- 🌍 I'm based in Belo Horizonte, MG, Brazil
+- 🏥 I'm currently developing healthcare software solutions at EBSERH using **C#**.
+- 👀 I’m interested in CI/CD, IT Infrastructure, and Data Science.
+- 📫 You can reach me by my social medias, just as LinkedIn and Instagram.
+- ⚡ Driven by curiosity and problem-solving. Take a look at my repositories to see my code in action.
 - 🎾 Fun fact: I'm also a musician, tennis enthusiast and a Sci-Fi fan.
 
 ### Skills
