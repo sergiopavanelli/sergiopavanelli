@@ -12,14 +12,10 @@
 
 ### Socials
 
+### Socials
+
 <div align="left">
-  <a href="https://www.linkedin.com/in/sergiopavanelli" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/sergiopavanelli" target="_blank">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://www.instagram.com/sergiopavanelli" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
+  <a href="https://github.com/sergiopavanelli" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="35"></a>
+  <a href="https://www.instagram.com/sergiopavanelli" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35"></a>
+  <a href="https://www.linkedin.com/in/sergiopavanelli" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35"></a>
 </div>
