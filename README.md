@@ -11,17 +11,17 @@
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,py,git,vscode,visualstudio,github)](https://skillicons.dev)
 
-### GitHub Stats
-
-<div align="left">
-  <img src="https://github-stats-extended.vercel.app/api?username=sergiopavanelli&show_icons=true&theme=radical&hide_border=true" alt="Sergio's GitHub Stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sergiopavanelli&layout=compact&theme=radical&hide_border=true" alt="Sergio's Top Languages" />
-</div>
-
 ### Socials
 
 <div align="left">
   <a href="https://github.com/sergiopavanelli" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="35"></a>
   <a href="https://www.instagram.com/sergiopavanelli" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35"></a>
   <a href="https://www.linkedin.com/in/sergiopavanelli" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35"></a>
+</div>
+
+### GitHub Stats
+
+<div align="left">
+  <img src="https://github-stats-extended.vercel.app/api?username=sergiopavanelli&show_icons=true&theme=radical&hide_border=true" alt="Sergio's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sergiopavanelli&layout=compact&theme=radical&hide_border=true" alt="Sergio's Top Languages" />
 </div>
