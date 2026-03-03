@@ -12,8 +12,6 @@
 
 ### Socials
 
-### Socials
-
 <div align="left">
   <a href="https://github.com/sergiopavanelli" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="35"></a>
   <a href="https://www.instagram.com/sergiopavanelli" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35"></a>
