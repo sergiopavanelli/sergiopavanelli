@@ -8,6 +8,10 @@
 
 ### Skills
 
+### Skills
+
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,py,git,sql,visualstudio,github)](https://skillicons.dev)
+
 <div align="left">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET">
@@ -20,10 +24,10 @@
 ### Socials
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/SEU_USER_AQUI" target="_blank">
+  <a href="https://www.linkedin.com/in/sergiopavanelli" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/SEU_USER_AQUI">
+  <a href="https://github.com/sergiopavanelli>
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </div>
