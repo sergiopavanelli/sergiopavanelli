@@ -10,7 +10,16 @@
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,py,java,git,vscode,visualstudio,github)](https://skillicons.dev)
+<div align="left">
+  <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank"><img src="https://skillicons.dev/icons?i=cs" alt="C#" /></a>
+  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" /></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=py" alt="Python" /></a>
+  <a href="https://dev.java/" target="_blank"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /></a>
+  <a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" /></a>
+  <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+</div>
 
 ### Socials
 
