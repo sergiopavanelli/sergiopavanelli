@@ -10,7 +10,7 @@
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,py,git,vscode,visualstudio,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,py,java,git,vscode,visualstudio,github)](https://skillicons.dev)
 
 ### Socials
 
