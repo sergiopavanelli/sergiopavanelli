@@ -1,12 +1,12 @@
 # Hi 👋 My name is Sérgio Pavanelli
 
-- 🌍 I'm based in Belo Horizonte, MG, Brazil
+- 🌍 I'm based in Belo Horizonte, MG, Brazil.
 - 🏥 I'm currently developing healthcare software solutions at EBSERH/HC-UFMG using **C#**.
 - 🎓 B.Sc. in Computer Science from UNIBH (Class of 2026).
-- 📚 Deepening my knowledge through postgraduate studies in **Software Engineering**, **Information Security**, **Data Science & AI**, and currently **Database Administration**.
+- 📚 Postgraduate specializations in **Software Engineering**, **Information Security**, **Data Science & AI**, and **Database Administration** — always looking for the next one.
 - 📫 You can reach me via my social media, such as LinkedIn and Instagram.
 - ⚡ Driven by curiosity and problem-solving. Take a look at my repositories to see my code in action.
-- 🔭 Fun facts: Chemist with an MSc in Analytical Chemistry (UFMG). Also a musician, tennis enthusiast, and passionate about science, astrophysics, and space!
+- 🔭 Fun facts: Chemist (UFV) with an MSc in Analytical Chemistry (UFMG). Also a musician and tennis enthusiast, passionate about science, astrophysics, and space!
 
 ### Skills
 <div align="left">
